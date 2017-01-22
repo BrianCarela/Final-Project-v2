@@ -1,0 +1,19 @@
+body{
+	margin: 0%;
+}
+a{
+	text-decoration: none;
+}
+header{
+	background-image: url(imgs/headerbg.png);
+	background-size: cover;
+}
+.list{
+	display: inline-block;
+	background-color: rgba(0,0,0,0.7);
+	color: yellow;
+}
+#logo{
+	width: 50%;
+	height: 50%;
+}
